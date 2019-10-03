@@ -140,7 +140,7 @@ body{
 	}*/
 }
 @media screen and (max-width: 767px) {
-	.service-content{
+	.services-content{
 		flex-wrap: wrap;
 		justify-content: space-around;
 	}
